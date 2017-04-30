@@ -3,7 +3,8 @@
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
-
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
 body {
     font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
     /*background: url('../img/') no-repeat center center fixed;*/
